@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
         timeForTimer=0;
 
   }
-
+//timer widget
   Widget timer() {
     return Container(
       child: Column(
